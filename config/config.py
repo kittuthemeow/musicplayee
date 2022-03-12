@@ -353,3 +353,5 @@ if not MUSIC_BOT_NAME.isascii():
         "[ERROR] - You've defined MUSIC_BOT_NAME wrong. Please don't use any special characters or Special font for this... Keep it simple and small."
     )
     sys.exit()
+
+START_IMG_URL = https://telegra.ph/file/6630169ceca2b9811bb81.jpg
