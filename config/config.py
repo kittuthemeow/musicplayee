@@ -354,4 +354,4 @@ if not MUSIC_BOT_NAME.isascii():
     )
     sys.exit()
 
-START_IMG_URL = https://telegra.ph/file/6630169ceca2b9811bb81.jpg
+ (START_IMG_URL = "https://telegra.ph/file/6630169ceca2b9811bb81.jpg") 
